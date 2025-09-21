@@ -37,7 +37,7 @@
 - 이벤트 트리거 시스템 구축 (TriggerEvent SO 기반)  
 - UGUI 버튼 관리 및 클래스 간 의존성 최소화  
 
-### BattleOops! (퍼니뎁, 팀 프로젝트)
+### [BattleOops!](https://play.google.com/store/apps/details?id=com.funnydev.battleoops) ((주)퍼니뎁 당시 프로젝트)
 - 모바일 RTS 게임 (6인 팀, 클라이언트 & 서버 개발 담당)  
 - 자체 엔진 + OpenGL, Firebase Google AD 연동  
 - 서버-DB 연동 및 UI/UX 구현  
