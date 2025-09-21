@@ -4,18 +4,18 @@
   
 # 게임 개발자 주용우
 
-🎮 **Game Developer | Unity Specialist | AI & Systems Enthusiast**  
+**Game Developer | Unity Specialist | AI & Systems Enthusiast**  
 협업과 유지보수를 무엇보다 중요하게 생각하는 게임 개발자 주용우입니다.  
 유지보수의 용이성을 통해 **빠른 개발과 함께 오랜 기간 서비스 할 수 있는 구조**를 설계하는 것을 철학으로 삼고 있습니다.  
 
 ---
 
 ## 학력 및 경력
-- 👨‍🎓 2022 청주대학교 컴퓨터정보공학과 졸업 (3.89/4.5)  
-- 🎓 2025 명지대학교 컴퓨터공학과 석사 (4.38/4.5)  
-- 💼 前 (주)퍼니뎁 모바일 게임 개발 (인턴 & 정규직)  
-- 🏆 교내·아카데미 수상 다수 (게임 그래픽, 프로그래밍 최우수상 외)  
-- 📄 석사 논문: *1인칭 슈팅 게임 속 AI 분류 및 개선*  
+- 2022 청주대학교 컴퓨터정보공학과 졸업 (3.89/4.5)  
+- 2025 명지대학교 컴퓨터공학과 석사 (4.38/4.5)  
+- 前 (주)퍼니뎁 모바일 게임 개발 (인턴 & 정규직)  
+- 교내·아카데미 수상 다수 (게임 그래픽, 프로그래밍 최우수상 외)  
+- 석사 논문: *1인칭 슈팅 게임 속 AI 분류 및 개선*  
 
 ---
 
@@ -37,7 +37,7 @@
 - 이벤트 트리거 시스템 구축 (TriggerEvent SO 기반)  
 - UGUI 버튼 관리 및 클래스 간 의존성 최소화  
 
-### ⚔BattleOops! (퍼니뎁, 팀 프로젝트)
+### BattleOops! (퍼니뎁, 팀 프로젝트)
 - 모바일 RTS 게임 (6인 팀, 클라이언트 & 서버 개발 담당)  
 - 자체 엔진 + OpenGL, Firebase Google AD 연동  
 - 서버-DB 연동 및 UI/UX 구현  
@@ -61,9 +61,9 @@
 ---
 
 ## 연락처
-- 📧 Email: **parsnip618@outlook.com**  
-- 📱 Phone: **010-8332-3415**  
-- 🌐 GitHub: [JuYongwoo](https://github.com/JuYongwoo)  
+- Email: **parsnip618@outlook.com**  
+- Phone: **010-8332-3415**  
+- GitHub: [JuYongwoo](https://github.com/JuYongwoo)  
 
 ---
 
