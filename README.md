@@ -21,9 +21,9 @@
 ---
 
 ## 기술 스택
-- **Languages:** C#, C++, Java  
-- **Game Engine:** Unity (UGUI, Addressables, ScriptableObject, AI 시스템)  
-- **Others:** OpenGL, Firebase, Git/GitHub  
+- **Languages:** C#, C++, Java
+- **Game Engine:** Unity (UGUI, Addressables, ScriptableObject, AI, DOTS)
+- **Others:** OpenGL, Firebase, Git/GitHub
 
 ---
 
