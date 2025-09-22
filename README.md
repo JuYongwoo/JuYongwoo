@@ -16,7 +16,7 @@
 - 前 (주)퍼니뎁 모바일 게임 개발 부서 인턴 (2021-09-01 ~ 2021-12-31)
 - 前 (주)퍼니뎁 모바일 게임 개발 부서 계약직 (2022-01-01 ~ 2022-12-31)
 - 교내·아카데미 수상 다수 (게임 그래픽, 프로그래밍 최우수상 외)  
-- 석사 논문: [*1인칭 슈팅 게임 속 AI 분류 및 개선*]([https://dcollection.mju.ac.kr/public_resource/pdf/000000078658_20250921172357.pdf](https://dcollection.mju.ac.kr/srch/srchDetail/000000078658)
+- 석사 논문: [*1인칭 슈팅 게임 속 AI 분류 및 개선*](https://dcollection.mju.ac.kr/srch/srchDetail/000000078658)
 
 ---
 
