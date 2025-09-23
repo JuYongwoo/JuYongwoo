@@ -30,12 +30,14 @@
 ## 포트폴리오 프로젝트
 ### [RandomSurvival](https://github.com/JuYongwoo/RandomSurvival)
 - 탑다운 뷰 액션 생존 게임 (1인 개발)  
-- **Addressables** & **ScriptableObject** 활용으로 유지보수 극대화  
+- *ScriptableObject** 활용으로 유지보수 극대화
+- **Addressables**를 이용한 비동기 로드
+- DOTS를 사용한 멀티스레딩 병렬 연산
 - 30분 동안 생존하는 플레이형 액션  
 
 ### [Tunnel](https://github.com/JuYongwoo/Tunnel)
 - 1인칭 3D 공포 게임 (1인 개발)  
-- 이벤트 트리거 시스템 구축 (TriggerEvent SO 기반)  
+- 이벤트 트리거 시스템 구축 (TriggerEvent SO 기반)
 - UGUI 버튼 관리 및 클래스 간 의존성 최소화  
 
 ### [BattleOops!](https://play.google.com/store/apps/details?id=com.funnydev.battleoops) ((주)퍼니뎁 당시 프로젝트)
