@@ -52,11 +52,11 @@ https://1drv.ms/u/c/212a12995e80087b/EbkDKeqaootIgi9wVgE8NG4B2aSFziApS2H_ZFcgQpC
 - 서버-DB 연동 및 UI/UX 구현
 - NDA 작성으로 코드를 공유하지 않습니다.
 
-### DiaryWalk [레포지토리](https://github.com/JuYongwoo/2021_1_CapStone)
+### DiaryWalk [리포지토리](https://github.com/JuYongwoo/2021_1_CapStone)
 - 횡스크롤 2D 공포 게임 (팀 프로젝트)  
 - Unity 기반 클라이언트 로직 및 캐릭터 상호작용 구현  
 
-### FPS AI Simulator [레포지토리](https://github.com/JuYongwoo/BattleSimulator)
+### FPS AI Simulator [리포지토리](https://github.com/JuYongwoo/BattleSimulator)
 - 석사 논문 실험용 시뮬레이터 (Unity 기반)  
 - FPS AI 이동 알고리즘 연구 및 개선안 FactorPathfinding 제안  
 
