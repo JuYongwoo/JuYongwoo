@@ -39,23 +39,23 @@ https://1drv.ms/u/c/212a12995e80087b/EbkDKeqaootIgi9wVgE8NG4B2aSFziApS2H_ZFcgQpC
 - 이벤트 트리거 시스템 구축 (TriggerEvent SO 기반)
 - UGUI 버튼 관리 및 클래스 간 의존성 최소화  
 
-### [RandomSurvival](https://github.com/JuYongwoo/RandomSurvival)
+### RandomSurvival 제작 중
 - 탑다운 뷰 액션 생존 게임 (1인 개발)  
 - *ScriptableObject** 활용으로 유지보수 극대화
 - **Addressables**를 이용한 비동기 로드
 - DOTS를 사용한 멀티스레딩 병렬 연산
 - 30분 동안 생존하는 플레이형 액션  
 
-### [BattleOops!](https://play.google.com/store/apps/details?id=com.funnydev.battleoops) ((주)퍼니뎁 당시 프로젝트)
+### BattleOops! [Google 플레이스토어](https://play.google.com/store/apps/details?id=com.funnydev.battleoops) ((주)퍼니뎁 당시 프로젝트)
 - 모바일 RTS 게임 (6인 팀, 클라이언트 & 서버 개발 담당)  
 - 자체 엔진 + OpenGL, Firebase Google AD 연동  
 - 서버-DB 연동 및 UI/UX 구현  
 
-### [DiaryWalk](https://github.com/JuYongwoo/2021_1_CapStone)
+### DiaryWalk [레포지토리](https://github.com/JuYongwoo/2021_1_CapStone)
 - 횡스크롤 2D 공포 게임 (팀 프로젝트)  
 - Unity 기반 클라이언트 로직 및 캐릭터 상호작용 구현  
 
-### [FPS AI Simulator](https://github.com/JuYongwoo/BattleSimulator)
+### FPS AI Simulator [레포지토리](https://github.com/JuYongwoo/BattleSimulator)
 - 석사 논문 실험용 시뮬레이터 (Unity 기반)  
 - FPS AI 이동 알고리즘 연구 및 개선안 FactorPathfinding 제안  
 
