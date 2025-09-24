@@ -40,7 +40,7 @@ https://1drv.ms/u/c/212a12995e80087b/EbkDKeqaootIgi9wVgE8NG4B2aSFziApS2H_ZFcgQpC
 - 이벤트 트리거 시스템 구축 (TriggerEvent SO 기반)
 - UGUI 버튼 관리 및 클래스 간 의존성 최소화  
 
-### RandomSurvival 제작 중
+### RandomSurvival(제작 중) [실행 파일 다운로드](https://1drv.ms/u/c/212a12995e80087b/EX6jYOqujJJPnto1NgoJ7R0BOAi6xACWAMN43-cwfLyj-A?e=Pn1IhJ)
 - 탑다운 뷰 액션 생존 게임 (1인 개발)  
 - *ScriptableObject** 활용으로 유지보수 극대화
 - **Addressables**를 이용한 비동기 로드
