@@ -32,6 +32,7 @@ https://1drv.ms/u/c/212a12995e80087b/EbkDKeqaootIgi9wVgE8NG4B2aSFziApS2H_ZFcgQpC
 - 캐주얼 퍼즐 게임
 - FSM 패턴을 이용한 퍼즐 로직
 - 유동적인 Resource 사용을 위해 Addressable 적용
+- 소스코드는 추후 일부 공개되도록 하겠습니다.
 
 ### [RandomSurvival](https://github.com/JuYongwoo/RandomSurvival)
 - 탑다운 뷰 액션 생존 게임 (1인 개발)  
