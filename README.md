@@ -46,10 +46,11 @@ https://1drv.ms/u/c/212a12995e80087b/EbkDKeqaootIgi9wVgE8NG4B2aSFziApS2H_ZFcgQpC
 - DOTS를 사용한 멀티스레딩 병렬 연산
 - 30분 동안 생존하는 플레이형 액션  
 
-### BattleOops! [Google 플레이스토어](https://play.google.com/store/apps/details?id=com.funnydev.battleoops) ((주)퍼니뎁 당시 프로젝트)
+### BattleOops!((주)퍼니뎁 당시 프로젝트) [Google 플레이스토어](https://play.google.com/store/apps/details?id=com.funnydev.battleoops)
 - 모바일 RTS 게임 (6인 팀, 클라이언트 & 서버 개발 담당)  
 - 자체 엔진 + OpenGL, Firebase Google AD 연동  
-- 서버-DB 연동 및 UI/UX 구현  
+- 서버-DB 연동 및 UI/UX 구현
+- NDA 작성으로 코드를 공유하지 않습니다.
 
 ### DiaryWalk [레포지토리](https://github.com/JuYongwoo/2021_1_CapStone)
 - 횡스크롤 2D 공포 게임 (팀 프로젝트)  
