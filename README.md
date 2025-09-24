@@ -24,10 +24,15 @@
 - **Languages:** C#, C++, Java
 - **Game Engine:** Unity (UGUI, Addressables, ScriptableObject, AI, DOTS)
 - **Others:** OpenGL, Firebase, Git/GitHub
-
+https://1drv.ms/u/c/212a12995e80087b/EbkDKeqaootIgi9wVgE8NG4B2aSFziApS2H_ZFcgQpCZ5A?e=Kp07pN
 ---
 
 ## 포트폴리오 프로젝트
+### [JewelPop](https://1drv.ms/u/c/212a12995e80087b/EbkDKeqaootIgi9wVgE8NG4B2aSFziApS2H_ZFcgQpCZ5A?e=Kp07pN)
+- 캐주얼 퍼즐 게임
+- FSM 패턴을 이용한 퍼즐 로직
+- 유동적인 Resource 사용을 위해 Addressable 적용
+
 ### [RandomSurvival](https://github.com/JuYongwoo/RandomSurvival)
 - 탑다운 뷰 액션 생존 게임 (1인 개발)  
 - *ScriptableObject** 활용으로 유지보수 극대화
