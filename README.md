@@ -5,7 +5,7 @@
 
 ---
   
-# 게임 개발자 주용우
+# 게임 개발자 주용우 [포트폴리오](https://github.com/JuYongwoo/JuYongwoo/blob/main/Portfolio/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 **Game Developer | Unity Specialist | AI & Systems Enthusiast**  
 협업과 유지보수를 무엇보다 중요하게 생각하는 게임 개발자 주용우입니다.  
@@ -13,20 +13,13 @@
 
 ---
 
-## 학력 및 경력 [자세히](https://github.com/JuYongwoo/JuYongwoo)
+## 학력 및 경력 [자세히](https://github.com/JuYongwoo/JuYongwoo/tree/main/Certificates)
 - 2025 명지대학교 컴퓨터공학과 석사 (총 학점 4.38/4.5)
 - 2022 청주대학교 컴퓨터정보공학과 졸업 (총 학점 3.89/4.5)
 - 前 (주)퍼니뎁 모바일 게임 개발 부서 인턴 (2021-09-01 ~ 2021-12-31)
 - 前 (주)퍼니뎁 모바일 게임 개발 부서 계약직 (2022-01-01 ~ 2022-12-31)
 - 교내·아카데미 수상 다수 (게임 그래픽, 프로그래밍 최우수상 외)  
 - 석사 논문: [*1인칭 슈팅 게임 속 AI 분류 및 개선*](https://dcollection.mju.ac.kr/srch/srchDetail/000000078658)
-
----
-
-## 기술 스택
-- **Languages:** C#, C++, Java
-- **Game Engine:** Unity (UGUI, Addressables, ScriptableObject, AI, DOTS)
-- **Others:** OpenGL, Firebase, Git/GitHub
   
 ---
 
