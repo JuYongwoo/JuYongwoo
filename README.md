@@ -28,7 +28,6 @@
 - 캐주얼 퍼즐 게임
 - **FSM** 패턴을 이용한 퍼즐 로직
 - 유동적인 Resource 사용을 위해 Addressable 적용
-- 소스코드는 추후 일부 공개되도록 하겠습니다.
 
 ### Tunnel [실행 파일 다운로드](https://1drv.ms/u/c/212a12995e80087b/EX6jYOqujJJPnto1NgoJ7R0BOAi6xACWAMN43-cwfLyj-A?e=rqOTQO)
 - 1인칭 3D 공포 게임
