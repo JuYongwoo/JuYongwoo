@@ -5,7 +5,7 @@
 
 ---
   
-# 게임 개발자 주용우 [포트폴리오](https://1drv.ms/f/c/212a12995e80087b/Eux22y42RBpBg9XGek0sPlkBU4ooDdn-wyq-4vr7nI0Hcw?e=Ggc5Ge)
+# 게임 개발자 주용우 [포트폴리오](https://github.com/JuYongwoo/JuYongwoo/tree/main/Portfolio)
 
 **Game Developer | Unity Specialist | AI & Systems Enthusiast**  
 협업과 유지보수를 무엇보다 중요하게 생각하는 게임 개발자 주용우입니다.  
@@ -13,7 +13,7 @@
 
 ---
 
-## 학력 및 경력 [자세히](https://1drv.ms/f/c/212a12995e80087b/Em5vHLor1B5FrkbdaUqGeTABUlriu2ArE-wSXj3Jf7RkyQ?e=N8CJiH)
+## 학력 및 경력 [자세히](https://github.com/JuYongwoo/JuYongwoo/tree/main/Certificates)
 - 2025 명지대학교 컴퓨터공학과 석사 (총 학점 4.38/4.5)
 - 2022 청주대학교 컴퓨터정보공학과 졸업 (총 학점 3.89/4.5)
 - 前 (주)퍼니뎁 모바일 게임 개발 부서 인턴 (2021-09-01 ~ 2021-12-31)
