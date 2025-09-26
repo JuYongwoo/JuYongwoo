@@ -24,23 +24,24 @@
 ---
 
 ## 포트폴리오 프로젝트
-### JewelPop [실행 파일 다운로드](https://1drv.ms/u/c/212a12995e80087b/EbkDKeqaootIgi9wVgE8NG4B2aSFziApS2H_ZFcgQpCZ5A?e=GLGT80)
-- 캐주얼 퍼즐 게임
-- **FSM** 패턴을 이용한 퍼즐 로직
-- 유동적인 Resource 사용을 위해 Addressable 적용
-- CookApps 프로그래밍 직무 과제로 사용되었으나 내부 리소스는 전부 외부 무료 리소스로 변경하였습니다.
 
 ### Tunnel [실행 파일 다운로드](https://1drv.ms/u/c/212a12995e80087b/EX6jYOqujJJPnto1NgoJ7R0BOAi6xACWAMN43-cwfLyj-A?e=rqOTQO)
 - 1인칭 3D 공포 게임
 - **이벤트 트리거 자동화 시스템** 구축 (TriggerEvent SO 기반)
-- UGUI 버튼 관리 및 클래스 간 **의존성 최소화**  
+- UGUI 버튼 관리 및 클래스 간 **의존성 최소화**
 
 ### RandomSurvival(제작 중) [실행 파일 다운로드](https://1drv.ms/u/c/212a12995e80087b/EX9MRhxFBBxJsHe8WPUFfI0BwTgCIkOo76FBMm1EIOhm0Q?e=bKxfzu)
 - 탑다운 뷰 액션 생존 게임
 - **ScriptableObject** 활용으로 유지보수 극대화
 - **Addressables**를 이용한 비동기 로드
 - **DOTS**를 사용한 멀티스레딩 병렬 연산
-- 30분 동안 생존하는 플레이형 액션  
+- 30분 동안 생존하는 플레이형 액션
+
+### JewelPop [실행 파일 다운로드](https://1drv.ms/u/c/212a12995e80087b/EbkDKeqaootIgi9wVgE8NG4B2aSFziApS2H_ZFcgQpCZ5A?e=GLGT80)
+- 캐주얼 퍼즐 게임
+- **FSM** 패턴을 이용한 퍼즐 로직
+- 유동적인 Resource 사용을 위해 Addressable 적용
+- CookApps 프로그래밍 직무 과제로 사용되었으나 내부 리소스는 전부 외부 무료 리소스로 변경하였습니다.
 
 ### BattleOops!((주)퍼니뎁 당시 프로젝트) [Google 플레이스토어](https://play.google.com/store/apps/details?id=com.funnydev.battleoops)
 - 모바일 RTS 게임 (6인 팀, 클라이언트 & 서버 개발 담당)  
