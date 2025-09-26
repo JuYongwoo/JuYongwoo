@@ -28,7 +28,7 @@
 - 캐주얼 퍼즐 게임
 - **FSM** 패턴을 이용한 퍼즐 로직
 - 유동적인 Resource 사용을 위해 Addressable 적용
-- CookApps 프로그래밍 직무 과제로 사용되었으나 내부 리소스는 전부 무료 리소스로 변경하였습니다.
+- CookApps 프로그래밍 직무 과제로 사용되었으나 내부 리소스는 전부 외부 무료 리소스로 변경하였습니다.
 
 ### Tunnel [실행 파일 다운로드](https://1drv.ms/u/c/212a12995e80087b/EX6jYOqujJJPnto1NgoJ7R0BOAi6xACWAMN43-cwfLyj-A?e=rqOTQO)
 - 1인칭 3D 공포 게임
