@@ -28,6 +28,13 @@
 
 ## 포트폴리오 프로젝트
 
+### Tunnel [실행 파일 다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/Tunnel_Release.zip)
+- 1인칭 3D 공포 게임
+- **Addressables**를 이용한 비동기 로드
+- **Event Aggregator Pattern**를 적용한 ActionManager 이벤트 집약 구성
+- **이벤트 트리거 자동화 시스템** 구축 (TriggerEvent SO 기반)
+- UGUI 버튼 관리 및 클래스 간 **의존성 최소화**
+
 ### ArrowBattle [실행 파일 다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/ArrowBattle_Release.zip)
 - 횡스크롤 2D 액션 게임
 - **Addressables**를 이용한 비동기 로드
@@ -35,15 +42,10 @@
 - **MVC Pattern**을 적용한 UI <-> 로직 분리
 - **Singleton Pattern**을 적용한 ResourceManager, ActionManager 인스턴스 접근 방식
 
-### Tunnel [실행 파일 다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/Tunnel_Release.zip)
-- 1인칭 3D 공포 게임
-- **이벤트 트리거 자동화 시스템** 구축 (TriggerEvent SO 기반)
-- UGUI 버튼 관리 및 클래스 간 **의존성 최소화**
-
 ### RandomSurvival(제작 중) [실행 파일 다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/RandomSurvival_Release.zip)
 - 탑다운 뷰 액션 생존 게임
-- **ScriptableObject** 활용으로 유지보수 극대화
 - **Addressables**를 이용한 비동기 로드
+- **ScriptableObject** 활용으로 유지보수 극대화
 - **DOTS**를 사용한 멀티스레딩 병렬 연산
 - 30분 동안 생존하는 플레이형 액션
 
