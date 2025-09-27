@@ -19,7 +19,7 @@
 ## 사용하는 프로그래밍 기법들
 
 ### Patterns
-- Singleton Pattern, MVC Pattern, FSM Pattern, Mediator Pattern
+- Singleton Pattern, MVC Pattern, FSM Pattern, Event Aggregator Pattern
 
 ### Techniques
 - Data(Unity-ScriptableObject, Unreal-DataAsset), UGUI(Unity), Addressables(Unity), DOTS(Unity, C#)
