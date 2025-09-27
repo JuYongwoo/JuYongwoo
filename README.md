@@ -1,4 +1,4 @@
-# 게임 개발자 주용우 [포트폴리오](https://github.com/JuYongwoo/JuYongwoo/tree/main/Portfolio)
+# 게임 개발자 주용우
 
 **Game Developer | Unity Specialist | AI & Systems Enthusiast**  
 협업과 유지보수를 무엇보다 중요하게 생각하는 게임 개발자 주용우입니다.  
