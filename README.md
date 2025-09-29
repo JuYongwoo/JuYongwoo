@@ -35,7 +35,7 @@
 - **이벤트 트리거 자동화 시스템** 구축 (TriggerEvent SO 기반)
 - UGUI 버튼 관리 및 클래스 간 **의존성 최소화**
 
-### ArrowBattle [실행 파일 다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/ArrowBattle_Release.zip)
+### ArrowBattle [리포지토리](https://github.com/JuYongwoo/ArrowBattle)
 - 횡스크롤 2D 액션 게임
 - **Addressables**를 이용한 비동기 로드
 - **ScriptableObject**를 이용한 데이터 캡슐화
