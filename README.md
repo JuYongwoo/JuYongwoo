@@ -49,7 +49,7 @@
 - **DOTS**를 사용한 멀티스레딩 병렬 연산
 - 30분 동안 생존하는 플레이형 액션
 
-### JewelPop [실행 파일 다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/JewelPop_Release.zip)
+### JewelPop [리포지토리](https://github.com/JuYongwoo/JewelPop_Public)
 - 캐주얼 퍼즐 게임
 - **FSM** 패턴을 이용한 퍼즐 로직
 - 유동적인 Resource 사용을 위해 Addressables 적용
