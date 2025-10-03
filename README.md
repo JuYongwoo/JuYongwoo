@@ -16,7 +16,7 @@
   
 ---
 
-## 사용하는 프로그래밍 기법들
+## 자주 사용하는 프로그래밍 기법들
 
 ### Patterns
 - Singleton Pattern, MVC Pattern, FSM Pattern, Event Aggregator Pattern
