@@ -42,7 +42,7 @@
 ### JewelPop [리포지토리](https://github.com/JuYongwoo/JewelPop_Public)
 - 캐주얼 퍼즐 게임
 - **FSM** 패턴을 이용한 퍼즐 로직
-- 유동적인 Resource 사용을 위해 Addressables 적용
+- **Addressables**를 이용한 비동기 로드
 - CookApps 프로그래밍 직무 과제로 사용되었으나 내부 리소스는 전부 외부 무료 리소스로 변경하였습니다.
 
 ### Tunnel [실행 파일 다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/Tunnel_Release.zip)
