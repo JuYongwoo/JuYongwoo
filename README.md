@@ -16,13 +16,15 @@
   
 ---
 
-## 자주 사용하는 프로그래밍 기법들
+## 주로 사용하는 프로그래밍 기법들
 
 ### Patterns
 - Singleton Pattern, MVC Pattern, FSM Pattern, Event Aggregator Pattern
 
 ### Techniques
 - Data(Unity-ScriptableObject, Unreal-DataAsset), UGUI(Unity), Addressables(Unity), DOTS(Unity, C#)
+
+## 항상 아래 원칙을 준수하기 위해 노력합니다.
 
 ### Principles
 - DRY Principle (Inheritance, Function Wrapping)
@@ -32,13 +34,6 @@
 
 ## 포트폴리오 프로젝트
 
-### Tunnel [실행 파일 다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/Tunnel_Release.zip)
-- 1인칭 3D 공포 게임
-- **Addressables**를 이용한 비동기 로드
-- **Event Aggregator Pattern**를 적용한 ActionManager 이벤트 집약 구성
-- **이벤트 트리거 자동화 시스템** 구축 (TriggerEvent SO 기반)
-- UGUI 버튼 관리 및 클래스 간 **의존성 최소화**
-
 ### ArrowBattle [리포지토리](https://github.com/JuYongwoo/ArrowBattle_Public)
 - 횡스크롤 2D 액션 게임
 - **Addressables**를 이용한 비동기 로드
@@ -46,18 +41,25 @@
 - **MVC Pattern**을 적용한 UI <-> 로직 분리
 - **Singleton Pattern**을 적용한 ResourceManager, ActionManager 인스턴스 접근 방식
 
+### JewelPop [리포지토리](https://github.com/JuYongwoo/JewelPop_Public)
+- 캐주얼 퍼즐 게임
+- **FSM** 패턴을 이용한 퍼즐 로직
+- 유동적인 Resource 사용을 위해 Addressables 적용
+- CookApps 프로그래밍 직무 과제로 사용되었으나 내부 리소스는 전부 외부 무료 리소스로 변경하였습니다.
+
+### Tunnel [실행 파일 다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/Tunnel_Release.zip)
+- 1인칭 3D 공포 게임
+- **Addressables**를 이용한 비동기 로드
+- **Event Aggregator Pattern**를 적용한 ActionManager 이벤트 집약 구성
+- **이벤트 트리거 자동화 시스템** 구축 (TriggerEvent SO 기반)
+- UGUI 버튼 관리 및 클래스 간 **의존성 최소화**
+
 ### RandomSurvival(제작 중) [실행 파일 다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/RandomSurvival_Release.zip)
 - 탑다운 뷰 액션 생존 게임
 - **Addressables**를 이용한 비동기 로드
 - **ScriptableObject** 활용으로 유지보수 극대화
 - **DOTS**를 사용한 멀티스레딩 병렬 연산
 - 30분 동안 생존하는 플레이형 액션
-
-### JewelPop [리포지토리](https://github.com/JuYongwoo/JewelPop_Public)
-- 캐주얼 퍼즐 게임
-- **FSM** 패턴을 이용한 퍼즐 로직
-- 유동적인 Resource 사용을 위해 Addressables 적용
-- CookApps 프로그래밍 직무 과제로 사용되었으나 내부 리소스는 전부 외부 무료 리소스로 변경하였습니다.
 
 ### BattleOops! ((주)퍼니뎁 당시 프로젝트) [Google 플레이스토어](https://play.google.com/store/apps/details?id=com.funnydev.battleoops)
 - 모바일 RTS 게임 (6인 팀, 클라이언트 & 서버 개발 담당)  
