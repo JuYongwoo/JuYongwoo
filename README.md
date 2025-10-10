@@ -22,7 +22,7 @@
 - Singleton Pattern, MVC Pattern, FSM Pattern, Event Aggregator Pattern
 
 ### Techniques
-- Data(Unity-ScriptableObject, Unreal-DataAsset), UGUI(Unity), Addressables(Unity), DOTS(Unity, C#)
+- Data(Unity-ScriptableObject, Unreal-DataAsset), UGUI(Unity), Addressables(Unity), DOTS(Unity, C#), ObjectPooling
 
 ### 항상 아래 원칙을 준수하기 위해 노력합니다.
 - DRY Principle (Inheritance, Function Wrapping)
@@ -38,6 +38,7 @@
 - **ScriptableObject**를 이용한 데이터 캡슐화
 - **MVC Pattern**을 적용한 UI <-> 로직 분리
 - **Singleton Pattern**을 적용한 ResourceManager, ActionManager 인스턴스 접근 방식
+- **ObjectPooling**기술을 사용하여 메모리, 성능 최적화
 
 ### JewelPop [리포지토리](https://github.com/JuYongwoo/JewelPop_Public)
 - 캐주얼 퍼즐 게임
