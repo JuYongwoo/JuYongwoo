@@ -24,9 +24,7 @@
 ### Techniques
 - Data(Unity-ScriptableObject, Unreal-DataAsset), UGUI(Unity), Addressables(Unity), DOTS(Unity, C#)
 
-## 항상 아래 원칙을 준수하기 위해 노력합니다.
-
-### Principles
+### 항상 아래 원칙을 준수하기 위해 노력합니다.
 - DRY Principle (Inheritance, Function Wrapping)
 - SOLID Principles
 
