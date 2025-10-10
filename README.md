@@ -32,7 +32,7 @@
 
 ## 포트폴리오 프로젝트
 
-### ArrowBattle [리포지토리](https://github.com/JuYongwoo/ArrowBattle_Public)
+### ArrowBattle [리포지토리](https://github.com/JuYongwoo/ArrowBattle_Public), [다운로드](https://github.com/JuYongwoo/ArrowBattle_Public/releases/download/release/ArrowBattle_Release.zip)
 - 횡스크롤 2D 액션 게임
 - **Addressables**를 이용한 비동기 로드
 - **ScriptableObject**를 이용한 데이터 캡슐화
@@ -40,20 +40,20 @@
 - **Singleton Pattern**을 적용한 ResourceManager, ActionManager 인스턴스 접근 방식
 - **ObjectPooling**기술을 사용하여 메모리, 성능 최적화
 
-### JewelPop [리포지토리](https://github.com/JuYongwoo/JewelPop_Public)
+### JewelPop [리포지토리](https://github.com/JuYongwoo/JewelPop_Public), [다운로드](https://github.com/JuYongwoo/JewelPop_Public/releases/download/Release/JewelPop_Release.zip)
 - 캐주얼 퍼즐 게임
 - **FSM** 패턴을 이용한 퍼즐 로직
 - **Addressables**를 이용한 비동기 로드
 - CookApps 프로그래밍 직무 과제로 사용되었으나 내부 리소스는 전부 외부 무료 리소스로 변경하였습니다.
 
-### Tunnel [실행 파일 다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/Tunnel_Release.zip)
+### Tunnel [다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/Tunnel_Release.zip)
 - 1인칭 3D 공포 게임
 - **Addressables**를 이용한 비동기 로드
 - **Event Aggregator Pattern**를 적용한 ActionManager 이벤트 집약 구성
 - **이벤트 트리거 자동화 시스템** 구축 (TriggerEvent SO 기반)
 - UGUI 버튼 관리 및 클래스 간 **의존성 최소화**
 
-### RandomSurvival(제작 중) [실행 파일 다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/RandomSurvival_Release.zip)
+### RandomSurvival(제작 중) [다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/RandomSurvival_Release.zip)
 - 탑다운 뷰 액션 생존 게임
 - **Addressables**를 이용한 비동기 로드
 - **ScriptableObject** 활용으로 유지보수 극대화
