@@ -22,7 +22,9 @@
 - Singleton Pattern, MVC Pattern, FSM Pattern, Event Aggregator Pattern
 
 ### Techniques
-- Data(Unity-ScriptableObject, Unreal-DataAsset), UGUI(Unity), Addressables(Unity), DOTS(Unity, C#), ObjectPooling
+- **Unity Engine** - UGUI, Addressables, Unity DOTS, ObjectPooling
+- **Git, Github** - Git Bash, Action - CI(빌드 자동화)
+- **ETC** - AWS, FireBase, Linux, ...
 
 ### 항상 아래 원칙을 준수하기 위해 노력합니다.
 - DRY Principle (Inheritance, Function Wrapping)
