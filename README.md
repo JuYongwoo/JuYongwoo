@@ -49,7 +49,7 @@
 
 ---
 
-## RandomSurvival(제작 중) [다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/RandomSurvival_Release.zip)
+## RandomSurvival(제작 중) [리포지토리](https://github.com/JuYongwoo/RandomSurvival), [다운로드](https://github.com/JuYongwoo/JuYongwoo/releases/download/release/RandomSurvival_Release.zip)
 - 탑다운 뷰 액션 생존 게임
 - **Addressables**를 이용한 비동기 로드
 - **ScriptableObject** 활용으로 유지보수 극대화
