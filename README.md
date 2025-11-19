@@ -74,7 +74,7 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
 ## JewelPop — 캐주얼 퍼즐  
 [리포지토리](https://github.com/JuYongwoo/JewelPop_Public) · [다운로드](https://github.com/JuYongwoo/JewelPop_Public/releases)
 
-![게임 시연](https://github.com/JuYongWoo/JewelPop_Public/main/README/JewelPop_GIF1.gif)
+![게임 시연](https://github.com/JuYongwoo/JewelPop_Public/blob/main/README/JewelPop_GIF1.gif)
 
 - **핵심 설계**: Addressables 자산 관리, ScriptableObject로 단계/과일 데이터 분리, 풀링 기반 생성/회수, 이벤트 허브, UGUI
 - **주요 모듈**: `EventManager`, `PoolManager`, `ResourceManager`, `SoundManager`, `InputManager`, `FruitDataSO`, `ScorePanel`
