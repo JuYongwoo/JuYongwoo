@@ -122,22 +122,6 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
 
 ---
 
-## JellySuika — 물리 낙하·합체 퍼즐  
-[리포지토리](https://github.com/JuYongwoo/JellySuika_Public) · [다운로드](https://github.com/JuYongwoo/JellySuika_Public/releases)
-
-![게임 시연](https://github.com/JuYongwoo/JellySuika_Public/blob/main/README/JellySuika_GIF1.gif)
-
-- **핵심 설계**: 풀링·리소스 허브·이벤트 허브, Addressables 자산 관리, UGUI
-- **주요 모듈**: `PoolManager`, `ResourceManager`, `InputManager`, `SoundManager`, `FruitDataSO`, `Title/Score Panel`
-- **리포지토리 구조(요약)**
-  ```
-  Scripts/
-  ├─ Cameras · Commons · Fruits · Managers · Scenes
-  ├─ ScriptableObjects · UIs · Utils
-  ```
-
----
-
 ## 상용 프로젝트
 **BattleOops!** (Google Play 배포)  
 - 모바일 RTS, **클라이언트 & 서버 개발 담당**  
