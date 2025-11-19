@@ -35,13 +35,27 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
 
 # 프로젝트 하이라이트
 
+## Farm — 3D 호러 퍼즐  
+[리포지토리](https://github.com/JuYongwoo/Farm_Public) · [다운로드](https://github.com/JuYongwoo/Farm_Public/releases)
+
+![게임 시연](https://raw.githubusercontent.com/JuYongWoo/ArrowBattle_Public/main/README/ArrowBattle_GIF1.gif)
+
+- **핵심 설계**: 리플렉트 이용한 함수 다형성, ScriptableObject 기반 이벤트 실행, 매니저가 없는 컴포넌트 완결 구조
+- **주요 모듈**: `ItemsInteractable`, `PlayerInteractor`, `EventSO`
+- **리포지토리 구조(요약)**
+  ```
+  작성 중입니다.
+  ```
+
+---
+
 ## ArrowBattle — 2D 액션 횡스크롤  
-[리포지토리](https://github.com/JuYongwoo/ArrowBattle) · [다운로드](https://github.com/JuYongwoo/ArrowBattle/releases)
+[리포지토리](https://github.com/JuYongwoo/ArrowBattle_Public) · [다운로드](https://github.com/JuYongwoo/ArrowBattle_Public/releases)
 
 ![게임 시연](https://raw.githubusercontent.com/JuYongWoo/ArrowBattle_Public/main/README/ArrowBattle_GIF1.gif)
 
 - **핵심 설계**: Addressables 기반 리소스 로드/캐시, ScriptableObject 데이터 캡슐화, 오브젝트 풀링, 이벤트 허브, UGUI UI 계층화
-- **주요 모듈**: `EventManager`, `ResourceManager`, `PoolManager`, `InputManager`, `AudioManager`, `Enemy/Player`
+- **주요 모듈**: `ResourceManager`, `PoolManager`, `AudioManager`, `Enemy/Player`
 - **리포지토리 구조(요약)**
   ```
   Scripts/
@@ -58,9 +72,9 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
 ---
 
 ## JewelPop — 캐주얼 퍼즐  
-[리포지토리](https://github.com/JuYongwoo/JewelPop) · [다운로드](https://github.com/JuYongwoo/JewelPop/releases)
+[리포지토리](https://github.com/JuYongwoo/JewelPop_Public) · [다운로드](https://github.com/JuYongwoo/JewelPop_Public/releases)
 
-![게임 시연](https://raw.githubusercontent.com/JuYongWoo/JewelPop_Public/main/README/JewelPop_GIF1.gif)
+![게임 시연](https://github.com/JuYongWoo/JewelPop_Public/main/README/JewelPop_GIF1.gif)
 
 - **핵심 설계**: Addressables 자산 관리, ScriptableObject로 단계/과일 데이터 분리, 풀링 기반 생성/회수, 이벤트 허브, UGUI
 - **주요 모듈**: `EventManager`, `PoolManager`, `ResourceManager`, `SoundManager`, `InputManager`, `FruitDataSO`, `ScorePanel`
@@ -74,9 +88,9 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
 ---
 
 ## RandomSurvival — 탑다운 액션 생존  
-[리포지토리](https://github.com/JuYongwoo/RandomSurvival) · [다운로드](https://github.com/JuYongwoo/RandomSurvival/releases)
+[리포지토리](https://github.com/JuYongwoo/RandomSurvival_Public) · [다운로드](https://github.com/JuYongwoo/RandomSurvival_Public/releases)
 
-![게임 시연](https://github.com/JuYongwoo/RandomSurvival/blob/main/README/RandomSurvival_GIF1.gif)
+![게임 시연](https://github.com/JuYongwoo/RandomSurvival_Public/blob/main/README/RandomSurvival_GIF1.gif)
 
 - **핵심 설계**: 이벤트 허브, Addressables 리소스 허브(`ResourceManager`), ScriptableObject 기반 밸런스/무기/타일, FSM 상태 전환, UGUI HUD
 - **시스템 구성**: CSV→타일 SO 매핑 `MapManager`, 경량 TCP 클라이언트 골격 `Managers/Core/NetworkClient`
@@ -92,7 +106,7 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
 ---
 
 ## Tunnel — 1인칭 3D 공포  
-[리포지토리](https://github.com/JuYongwoo/Tunnel) · [다운로드](https://github.com/JuYongwoo/Tunnel/releases)
+[리포지토리](https://github.com/JuYongwoo/Tunnel_Public) · [다운로드](https://github.com/JuYongwoo/Tunnel_Public/releases)
 
 ![게임 시연](https://github.com/JuYongWoo/Tunnel_Public/raw/main/README/Tunnel_GIF.gif)
 
@@ -109,9 +123,9 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
 ---
 
 ## JellySuika — 물리 낙하·합체 퍼즐  
-[리포지토리](https://github.com/JuYongwoo/JellySuika) · [다운로드](https://github.com/JuYongwoo/JellySuika/releases)
+[리포지토리](https://github.com/JuYongwoo/JellySuika_Public) · [다운로드](https://github.com/JuYongwoo/JellySuika_Public/releases)
 
-![게임 시연](https://github.com/JuYongwoo/JellySuika/blob/main/README/JellySuika_GIF1.gif)
+![게임 시연](https://github.com/JuYongwoo/JellySuika_Public/blob/main/README/JellySuika_GIF1.gif)
 
 - **핵심 설계**: 풀링·리소스 허브·이벤트 허브, Addressables 자산 관리, UGUI
 - **주요 모듈**: `PoolManager`, `ResourceManager`, `InputManager`, `SoundManager`, `FruitDataSO`, `Title/Score Panel`
