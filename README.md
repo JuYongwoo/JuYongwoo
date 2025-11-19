@@ -38,7 +38,7 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
 ## Farm — 3D 호러 퍼즐  
 [리포지토리](https://github.com/JuYongwoo/Farm_Public) · [다운로드](https://github.com/JuYongwoo/Farm_Public/releases)
 
-![게임 시연](https://raw.githubusercontent.com/JuYongWoo/ArrowBattle_Public/main/README/ArrowBattle_GIF1.gif)
+![게임 시연](https://raw.githubusercontent.com/JuYongWoo/Farm_Public/main/README/Farm_GIF1.gif)
 
 - **핵심 설계**: 리플렉트 이용한 함수 다형성, ScriptableObject 기반 이벤트 실행, 매니저가 없는 컴포넌트 완결 구조
 - **주요 모듈**: `ItemsInteractable`, `PlayerInteractor`, `EventSO`
