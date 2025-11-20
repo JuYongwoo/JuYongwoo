@@ -35,6 +35,14 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
 
 # 프로젝트 하이라이트
 
+## 개발 현황
+모든 프로젝트는 개발 이후에도 계속 리팩토링 되고 있습니다.  
+아래는 기능 개발만을 나타낸 연혁입니다.
+- **Farm** 2025-11-14 ~ 2025-11-20 개발완료
+- **JewelPop** 2025-10-1 ~ 2025-10-4 개발완료
+- **ArrowBattle** 2025-8-27 ~ 2025-8-29 개발완료
+- **RandomSurvival** 2025-11-14 ~ 2025-11-20 개발완료
+
 ## Farm — 3D 호러 퍼즐  
 [리포지토리](https://github.com/JuYongwoo/Farm_Public) · [다운로드](https://github.com/JuYongwoo/Farm_Public/releases)
 
