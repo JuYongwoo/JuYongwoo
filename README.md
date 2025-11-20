@@ -44,7 +44,16 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
 - **주요 모듈**: `ItemsInteractable`, `PlayerInteractor`, `EventSO`
 - **리포지토리 구조(요약)**
   ```
-  작성 중입니다.
+  Scripts/
+  ├─ Commons
+  ├─ Editor
+  ├─ Enemy
+  ├─ Items
+  ├─ Player
+  ├─ Scenes
+  ├─ SOs
+  ├─ UI
+  └─ Utils
   ```
 
 ---
