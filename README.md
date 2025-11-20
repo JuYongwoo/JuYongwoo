@@ -49,6 +49,7 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
   ├─ Editor
   ├─ Enemy
   ├─ Items
+  ├─ Managers(비공개)
   ├─ Player
   ├─ Scenes
   ├─ SOs
@@ -70,7 +71,7 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
   Scripts/
   ├─ Characters
   ├─ Commons
-  ├─ Managers
+  ├─ Managers(비공개)
   ├─ Scenes
   ├─ Skills
   ├─ SOs
@@ -87,12 +88,6 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
 
 - **핵심 설계**: Addressables 자산 관리, ScriptableObject로 단계/과일 데이터 분리, 풀링 기반 생성/회수, 이벤트 허브, UGUI
 - **주요 모듈**: `EventManager`, `PoolManager`, `ResourceManager`, `SoundManager`, `InputManager`, `FruitDataSO`, `ScorePanel`
-- **리포지토리 구조(요약)**
-  ```
-  Scripts/
-  ├─ Cameras · Commons · Fruits · Managers · Scenes
-  ├─ ScriptableObjects · UIs · Utils
-  ```
 
 ---
 
@@ -103,14 +98,6 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
 
 - **핵심 설계**: 이벤트 허브, Addressables 리소스 허브(`ResourceManager`), ScriptableObject 기반 밸런스/무기/타일, FSM 상태 전환, UGUI HUD
 - **시스템 구성**: CSV→타일 SO 매핑 `MapManager`, 경량 TCP 클라이언트 골격 `Managers/Core/NetworkClient`
-- **리포지토리 구조(요약)**
-  ```
-  Scripts/
-  ├─ Commons · Enemies · Items · Managers(Core 포함)
-  ├─ Maps · Players · Scenes · SOs · UIs · Utils
-  ```
-
-> DOTS/ECS는 본 리포지토리 스크립트 범위에서 사용 내역을 확인하지 않았습니다.
 
 ---
 
@@ -121,13 +108,6 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
 
 - **핵심 설계**: Addressables 리소스 관리, 이벤트 허브, UGUI, 오브젝트 풀링
 - **트리거 파이프라인**: `SOs/TriggerEventSO` + `Scenes/Systems/TriggerEventManager`로 씬 이벤트 시퀀스화
-- **게임플레이**: 상호작용(`Door`, `Key`, `MovingWall`), 적 AI(`Following`, `Patrolling`, `Zombie`)
-- **리포지토리 구조(요약)**
-  ```
-  Scripts/
-  ├─ Commons · Enemy · Items · Managers · Player
-  ├─ Scenes/Systems · SOs · UI · Utils
-  ```
 
 ---
 
