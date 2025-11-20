@@ -65,7 +65,7 @@ DRY · SOLID · FSM · MVC · Event Aggregator · Object Pooling · GitHub Actio
 ![게임 시연](https://raw.githubusercontent.com/JuYongWoo/ArrowBattle_Public/main/README/ArrowBattle_GIF1.gif)
 
 - **핵심 설계**: Addressables 기반 리소스 로드/캐시, ScriptableObject 데이터 캡슐화, 오브젝트 풀링, 이벤트 허브, UGUI UI 계층화
-- **주요 모듈**: `ResourceManager`, `PoolManager`, `AudioManager`, `Enemy/Player`
+- **주요 모듈**: `PoolManager`, `Enemy/Player`, `ScriptableObject`
 - **리포지토리 구조(요약)**
   ```
   Scripts/
